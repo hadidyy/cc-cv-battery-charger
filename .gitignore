@@ -1,0 +1,12 @@
+*.eep
+*.elf
+*.hex
+*.bin
+slprj/
+*.slxc
+*.autosave
+*.workspace
+Project Backups/
+.DS_Store
+Thumbs.db
+
